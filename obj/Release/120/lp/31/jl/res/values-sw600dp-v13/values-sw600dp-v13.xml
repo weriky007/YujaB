@@ -1,0 +1,1 @@
+<resources><dimen name="landscape_padding">32dp</dimen><dimen name="progressbar_height">200dp</dimen><dimen name="progressbar_width">240dp</dimen><integer name="landscape_initial_ratio">2</integer><integer name="landscape_secondary_ratio">3</integer></resources>

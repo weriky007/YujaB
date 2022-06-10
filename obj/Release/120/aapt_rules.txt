@@ -1,0 +1,831 @@
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_stub_actionbuttons.xml:1
+-keep class MaterialDialogsCore.internal.MdButton { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_dialog_basic.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_dialog_basic_check.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_dialog_custom.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_dialog_input.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_dialog_input_check.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_dialog_list.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_dialog_list_check.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_dialog_progress.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_dialog_progress_indeterminate.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_dialog_progress_indeterminate_horizontal.xml:1
+-keep class MaterialDialogsCore.internal.MdRootLayout { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\livestreaminglayout.xml:1
+-keep class PlayTube.Activities.Live.Ui.VideoGridContainer { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_deleteacountuser_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_password_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_twofactorauthlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_admob.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_admob2.xml:1
+-keep class PlayTube.Helpers.Ads.TemplateView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\tabbed_main_layout.xml:1
+-keep class PlayTube.Helpers.Views.CustomTouchLayout { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\chaboutlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\left_ms_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\right_ms_view.xml:16
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_comment.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\video_viewer_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\videosliderlayout.xml:1
+-keep class PlayTube.Library.Anjo.SuperTextLibrary.SuperTextView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\notifcation_view.xml:1
+-keep class Refractored.Controls.CircleImageView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\fullscreenyoutubeplayerlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\videosliderlayout.xml:1
+-keep class YouTubePlayerAndroidX.Player.YouTubePlayerView { <init>(...); }
+
+# Referenced at res/layout/abc_alert_dialog_button_bar_material.xml:43
+# Referenced at res/layout/abc_alert_dialog_material.xml:52
+# Referenced at res/layout/abc_alert_dialog_title_material.xml:57
+# Referenced at res/layout/mtrl_alert_dialog.xml:51
+# Referenced at res/layout/mtrl_alert_dialog_actions.xml:45
+# Referenced at res/layout/mtrl_alert_dialog_title.xml:41
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\2\jl\res\layout\loadingprogress.xml:1
+-keep class androidhud.ProgressWheel { <init>(...); }
+
+# Referenced at res/layout/abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at res/layout/abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at res/layout/abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at res/layout/abc_cascading_menu_item_layout.xml:20
+# Referenced at res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at res/layout/abc_popup_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at res/layout/abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at res/layout/abc_action_mode_bar.xml:19
+# Referenced at res/layout/abc_screen_toolbar.xml:43
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at res/layout/abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at res/layout/abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at res/layout/abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at res/layout/abc_alert_dialog_material.xml:18
+# Referenced at res/layout/mtrl_alert_dialog.xml:17
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\allchannelsubscribed_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\buttomsheetchannelpopularfilter.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\editvideolayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\emptystatelayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\fb_native_ad_unit.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\first_activity_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\forgetpassword_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\gnt_nativecontentad_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\lloginwowonderlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\login_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\moviesfilterlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\mychannelfragment_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\paymentcarddetailslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\paymentlocallayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\paymentwebviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\register_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\restrictedvideolayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_deleteacountuser_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_twofactorauthlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\stockfilterlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_gopro_pricess_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_hcontactview.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\userchannel_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\verificationcodelayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\verificationlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\video_viewer_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\videosliderlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\view_live_streamer_final.xml:1
+-keep class androidx.appcompat.widget.AppCompatButton { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_listitem_multichoice.xml:1
+-keep class androidx.appcompat.widget.AppCompatCheckBox { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\activity_payment_methods.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\articlesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\136\jl\res\layout\com_facebook_device_auth_dialog_fragment.xml:19
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\136\jl\res\layout\com_facebook_smart_device_dialog_fragment.xml:19
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\commentsfragment_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\masked_card_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\messagesbox_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\shipping_method_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_bottom_sheet_reply.xml:1
+-keep class androidx.appcompat.widget.AppCompatImageView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_listitem_singlechoice.xml:1
+-keep class androidx.appcompat.widget.AppCompatRadioButton { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\activity_payment_methods.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\masked_card_view.xml:1
+-keep class androidx.appcompat.widget.AppCompatTextView { <init>(...); }
+
+# Referenced at res/layout/abc_alert_dialog_button_bar_material.xml:26
+# Referenced at res/layout/mtrl_alert_dialog_actions.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at res/layout/abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at res/layout/abc_alert_dialog_title_material.xml:45
+# Referenced at res/layout/mtrl_alert_dialog_title.xml:36
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at res/layout/abc_dialog_title_material.xml:22
+# Referenced at res/layout/abc_screen_simple.xml:17
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\menu\more_menu.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\menu\search_menu.xml:1
+-keep class androidx.appcompat.widget.SearchView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\search_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\ttrendinglayout.xml:1
+-keep class androidx.appcompat.widget.SearchView { <init>(...); }
+
+# Referenced at res/layout/abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at res/layout/preference_widget_switch_compat.xml:20
+-keep class androidx.appcompat.widget.SwitchCompat { <init>(...); }
+
+# Referenced at res/layout/abc_screen_toolbar.xml:36
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\activitiesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\activity_payment_methods.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\activity_stripe.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\articlesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_add_card_activity.xml:1
+# Referenced at res/layout/cast_expanded_controller_activity.xml:28
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challenge_toolbar_cf.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\creatnewplaylist_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\edit_mychannel_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\editvideolayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\go_pro_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\library_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\localwebview_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\monetizationlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\mychannelfragment_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\paymentcarddetailslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\paymentlocallayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\pointslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\recyclerdefaultlayout.xml:2
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\search_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_deleteacountuser_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_password_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_twofactorauthlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\subscriptionslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\tmainvideolayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\toolbar.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\ttrendinglayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\userchannel_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\verificationcodelayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\verificationlayout.xml:1
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at res/layout/abc_screen_simple.xml:25
+# Referenced at res/layout/abc_screen_simple_overlay_action_mode.xml:32
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at res/layout/browser_actions_context_menu_page.xml:17
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_vaulted_payment_method_card.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\136\jl\res\layout\com_facebook_device_auth_dialog_fragment.xml:19
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\136\jl\res\layout\com_facebook_smart_device_dialog_fragment.xml:19
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\editvideolayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\paymentcarddetailslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\paymentlocallayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\162\jl\res\layout\places_autocomplete_impl_fragment_overlay.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\popupvideomorelayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_activities_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_popularchannels_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\tabbed_main_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\video_big_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\video_horizontal_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\video_playlist_row_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\video_row_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\videosliderlayout.xml:1
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at res/layout/material_timepicker_dialog.xml:38
+-keep class androidx.constraintlayout.widget.Barrier { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\livestreaminglayout.xml:1
+# Referenced at res/layout/material_timepicker_dialog.xml:18
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\view_live_streamer_ready.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\view_live_streaming_loading_progress.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\view_live_streaming_streamer_header.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\view_live_streaming_viewer_header.xml:1
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(...); }
+
+# Referenced at res/layout-land/material_timepicker.xml:23
+-keep class androidx.constraintlayout.widget.Guideline { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\activitiesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\articlesviewlayout.xml:1
+# Referenced at res/layout/design_bottom_sheet_dialog.xml:26
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\editvideolayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\mychannelfragment_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\recyclerdefaultlayout.xml:2
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_deleteacountuser_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_bottom_sheet_reply.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\subscriptionslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\tmainvideolayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\ttrendinglayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\userchannel_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\verificationcodelayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\videosliderlayout.xml:1
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at res/layout/abc_alert_dialog_material.xml:41
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\activitiesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\articlesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\cashfreepaymentlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\chaboutlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\edit_mychannel_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\login_layout.xml:1
+# Referenced at res/layout/mtrl_alert_dialog.xml:40
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\paymentcarddetailslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\paymentlocallayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\pointslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_deleteacountuser_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_twofactorauthlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\verificationcodelayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\verificationlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\video_viewer_layout.xml:1
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at res/transition-v19/lb_browse_headers_in.xml:21
+# Referenced at res/transition-v19/lb_browse_headers_out.xml:21
+-keep class androidx.leanback.Scale { <init>(...); }
+
+# Referenced at res/layout/lb_guidedstep_fragment.xml:18
+-keep class androidx.leanback.app.GuidedStepRootLayout { <init>(...); }
+
+# Referenced at res/transition-v21/lb_guidedstep_activity_enter_bottom.xml:18
+-keep class androidx.leanback.transition.FadeAndShortSlide { <init>(...); }
+
+# Referenced at res/transition-v21/lb_details_enter_transition.xml:33
+# Referenced at res/transition-v21/lb_details_return_transition.xml:32
+-keep class androidx.leanback.transition.ParallaxTransition { <init>(...); }
+
+# Referenced at res/transition-v21/lb_title_in.xml:17
+# Referenced at res/transition-v21/lb_title_out.xml:17
+-keep class androidx.leanback.transition.SlideKitkat { <init>(...); }
+
+# Referenced at res/transition-v21/lb_details_enter_transition.xml:19
+# Referenced at res/transition-v21/lb_details_return_transition.xml:18
+-keep class androidx.leanback.transition.SlideNoPropagation { <init>(...); }
+
+# Referenced at res/layout/lb_browse_fragment.xml:24
+# Referenced at res/layout/lb_details_fragment.xml:17
+# Referenced at res/layout/lb_vertical_grid_fragment.xml:22
+-keep class androidx.leanback.widget.BrowseFrameLayout { <init>(...); }
+
+# Referenced at res/layout/lb_browse_fragment.xml:32
+-keep class androidx.leanback.widget.BrowseRowsFrameLayout { <init>(...); }
+
+# Referenced at res/layout/lb_guidedactions_item.xml:23
+-keep class androidx.leanback.widget.CheckableImageView { <init>(...); }
+
+# Referenced at res/layout/lb_control_bar.xml:18
+# Referenced at res/layout/lb_playback_controls.xml:38
+# Referenced at res/layout/lb_playback_transport_controls.xml:28
+-keep class androidx.leanback.widget.ControlBar { <init>(...); }
+
+# Referenced at res/layout/lb_guidance.xml:22
+-keep class androidx.leanback.widget.GuidanceStylingRelativeLayout { <init>(...); }
+
+# Referenced at res/layout/lb_guidedactions_item.xml:37
+-keep class androidx.leanback.widget.GuidedActionEditText { <init>(...); }
+
+# Referenced at res/layout/lb_guidedactions_datepicker_item.xml:18
+# Referenced at res/layout/lb_guidedactions_item.xml:18
+-keep class androidx.leanback.widget.GuidedActionItemContainer { <init>(...); }
+
+# Referenced at res/layout/lb_guidedactions.xml:36
+-keep class androidx.leanback.widget.GuidedActionsRelativeLayout { <init>(...); }
+
+# Referenced at res/layout/lb_details_overview.xml:76
+# Referenced at res/layout/lb_fullwidth_details_overview.xml:54
+# Referenced at res/layout/lb_list_row.xml:18
+-keep class androidx.leanback.widget.HorizontalGridView { <init>(...); }
+
+# Referenced at res/layout/lb_media_item_number_view_flipper.xml:36
+-keep class androidx.leanback.widget.MediaNowPlayingView { <init>(...); }
+
+# Referenced at res/layout/lb_row_media_item.xml:32
+-keep class androidx.leanback.widget.MediaRowFocusView { <init>(...); }
+
+# Referenced at res/layout/lb_details_fragment.xml:28
+# Referenced at res/layout/lb_details_overview.xml:63
+# Referenced at res/layout/lb_fullwidth_details_overview.xml:68
+# Referenced at res/layout/lb_guidedbuttonactions.xml:33
+# Referenced at res/layout/lb_guidedstep_fragment.xml:40
+# Referenced at res/layout/lb_playback_fragment.xml:24
+-keep class androidx.leanback.widget.NonOverlappingFrameLayout { <init>(...); }
+
+# Referenced at res/layout/lb_guidedactions_item.xml:33
+# Referenced at res/layout/lb_guidedstep_fragment.xml:68
+# Referenced at res/layout/lb_row_container.xml:18
+-keep class androidx.leanback.widget.NonOverlappingLinearLayout { <init>(...); }
+
+# Referenced at res/layout/lb_image_card_view.xml:25
+-keep class androidx.leanback.widget.NonOverlappingRelativeLayout { <init>(...); }
+
+# Referenced at res/layout/lb_guidedactions.xml:26
+# Referenced at res/layout/lb_guidedbuttonactions.xml:26
+# Referenced at res/layout/lb_guidedstep_background.xml:17
+# Referenced at res/layout/lb_guidedstep_fragment.xml:58
+# Referenced at res/layout/lb_shadow.xml:18
+-keep class androidx.leanback.widget.NonOverlappingView { <init>(...); }
+
+# Referenced at res/layout/lb_onboarding_fragment.xml:60
+-keep class androidx.leanback.widget.PagingIndicator { <init>(...); }
+
+# Referenced at res/layout/lb_playback_controls_row.xml:21
+-keep class androidx.leanback.widget.PlaybackControlsRowView { <init>(...); }
+
+# Referenced at res/layout/lb_playback_transport_controls_row.xml:71
+-keep class androidx.leanback.widget.PlaybackTransportRowView { <init>(...); }
+
+# Referenced at res/layout/lb_details_description.xml:26
+-keep class androidx.leanback.widget.ResizingTextView { <init>(...); }
+
+# Referenced at res/layout/lb_header.xml:18
+# Referenced at res/layout/lb_row_header.xml:24
+# Referenced at res/layout/lb_section_header.xml:18
+-keep class androidx.leanback.widget.RowHeaderView { <init>(...); }
+
+# Referenced at res/layout/lb_browse_fragment.xml:37
+-keep class androidx.leanback.widget.ScaleFrameLayout { <init>(...); }
+
+# Referenced at res/layout/lb_search_fragment.xml:27
+-keep class androidx.leanback.widget.SearchBar { <init>(...); }
+
+# Referenced at res/layout/lb_search_bar.xml:53
+-keep class androidx.leanback.widget.SearchEditText { <init>(...); }
+
+# Referenced at res/layout/lb_title_view.xml:37
+-keep class androidx.leanback.widget.SearchOrbView { <init>(...); }
+
+# Referenced at res/layout/lb_playback_transport_controls_row.xml:88
+-keep class androidx.leanback.widget.SeekBar { <init>(...); }
+
+# Referenced at res/layout/lb_search_bar.xml:18
+-keep class androidx.leanback.widget.SpeechOrbView { <init>(...); }
+
+# Referenced at res/layout/lb_playback_transport_controls_row.xml:61
+-keep class androidx.leanback.widget.ThumbsBar { <init>(...); }
+
+# Referenced at res/layout/lb_browse_title.xml:17
+-keep class androidx.leanback.widget.TitleView { <init>(...); }
+
+# Referenced at res/layout/lb_guidedactions.xml:42
+# Referenced at res/layout/lb_guidedbuttonactions.xml:39
+# Referenced at res/layout/lb_headers_fragment.xml:26
+# Referenced at res/layout/lb_picker_column.xml:17
+# Referenced at res/layout/lb_rows_fragment.xml:17
+# Referenced at res/layout/lb_vertical_grid.xml:18
+-keep class androidx.leanback.widget.VerticalGridView { <init>(...); }
+
+# Referenced at res/layout/lb_video_surface.xml:17
+-keep class androidx.leanback.widget.VideoSurfaceView { <init>(...); }
+
+# Referenced at res/layout/lb_guidedactions_datepicker_item.xml:34
+-keep class androidx.leanback.widget.picker.DatePicker { <init>(...); }
+
+# Referenced at res/layout/mr_volume_control.xml:45
+-keep class androidx.mediarouter.app.MediaRouteExpandCollapseButton { <init>(...); }
+
+# Referenced at res/layout/mr_cast_group_volume_item.xml:42
+# Referenced at res/layout/mr_cast_route_item.xml:66
+# Referenced at res/layout/mr_controller_volume_item.xml:47
+# Referenced at res/layout/mr_volume_control.xml:36
+-keep class androidx.mediarouter.app.MediaRouteVolumeSlider { <init>(...); }
+
+# Referenced at res/layout/mr_controller_material_dialog_b.xml:90
+-keep class androidx.mediarouter.app.OverlayListView { <init>(...); }
+
+# Referenced at res/layout/preference_widget_seekbar.xml:70
+# Referenced at res/layout/preference_widget_seekbar_material.xml:77
+-keep class androidx.preference.UnPressableLinearLayout { <init>(...); }
+
+# Referenced at res/layout/image_frame.xml:33
+# Referenced at res/layout/preference.xml:32
+# Referenced at res/layout/preference_dropdown.xml:39
+-keep class androidx.preference.internal.PreferenceImageView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\activitiesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\activity_payment_methods.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\articlesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_drop_in_activity.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_vault_management_activity.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\commentsfragment_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\go_pro_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\library_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\livestreaminglayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\mainfragmentlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_dialog_list.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\22\jl\res\layout\md_dialog_list_check.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\messagesbox_layout.xml:1
+# Referenced at res/layout/mr_cast_dialog.xml:23
+# Referenced at res/layout/mr_picker_dialog.xml:35
+# Referenced at res/layout/mtrl_calendar_horizontal.xml:29
+# Referenced at res/layout/mtrl_calendar_months.xml:18
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\162\jl\res\layout\places_autocomplete_impl_fragment_fullscreen.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\162\jl\res\layout\places_autocomplete_impl_fragment_overlay.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\198\jl\res\layout\player_menu.xml:1
+# Referenced at res/layout/preference_recyclerview.xml:18
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\recyclerdefaultlayout.xml:2
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\search_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\select_shipping_method_widget.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_bottom_sheet_reply.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\subscriptionslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\templaterecyclerviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\tmainvideolayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\ttrendinglayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\video_viewer_layout.xml:1
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\activitiesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\commentsfragment_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\localwebview_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\mainfragmentlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\messagesbox_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\recyclerdefaultlayout.xml:2
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\search_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\subscriptionslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\tmainvideolayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\ttrendinglayout.xml:1
+-keep class androidx.swiperefreshlayout.widget.SwipeRefreshLayout { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\activity_shipping_flow.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\53\jl\res\layout\emojicons.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\sliderhomepagelayout.xml:1
+-keep class androidx.viewpager.widget.ViewPager { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\mychannelfragment_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\userchannel_layout.xml:1
+-keep class androidx.viewpager2.widget.ViewPager2 { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\articlesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\chaboutlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\commentsfragment_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\editvideolayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\messagesbox_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\paymentlocallayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_bottom_sheet_reply.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_sessionsview.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\verificationlayout.xml:1
+-keep class at.markushi.ui.CircleButton { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_add_card_activity.xml:1
+-keep class com.braintreepayments.api.dropin.view.AddCardView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_add_card.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_edit_card.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_enrollment_card.xml:1
+-keep class com.braintreepayments.api.dropin.view.AnimatedButtonView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_add_card_activity.xml:1
+-keep class com.braintreepayments.api.dropin.view.EditCardView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_add_card_activity.xml:1
+-keep class com.braintreepayments.api.dropin.view.EnrollmentCardView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\28\jl\res\layout\bt_card_form_fields.xml:1
+-keep class com.braintreepayments.cardform.view.CardEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_add_card.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_edit_card.xml:1
+-keep class com.braintreepayments.cardform.view.CardForm { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\28\jl\res\layout\bt_card_form_fields.xml:1
+-keep class com.braintreepayments.cardform.view.CardholderNameEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\28\jl\res\layout\bt_card_form_fields.xml:1
+-keep class com.braintreepayments.cardform.view.CountryCodeEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\28\jl\res\layout\bt_card_form_fields.xml:1
+-keep class com.braintreepayments.cardform.view.CvvEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_enrollment_card.xml:1
+-keep class com.braintreepayments.cardform.view.ErrorEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\28\jl\res\layout\bt_card_form_fields.xml:1
+-keep class com.braintreepayments.cardform.view.ExpirationDateEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\28\jl\res\layout\bt_card_form_fields.xml:1
+-keep class com.braintreepayments.cardform.view.InitialValueCheckBox { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\28\jl\res\layout\bt_card_form_fields.xml:1
+-keep class com.braintreepayments.cardform.view.MobileNumberEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\28\jl\res\layout\bt_card_form_fields.xml:1
+-keep class com.braintreepayments.cardform.view.PostalCodeEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_add_card.xml:1
+-keep class com.braintreepayments.cardform.view.SupportedCardTypesView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout-sw600dp-v13\activity_multi_select_challenge_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout-sw600dp-v13\activity_oob_challenge_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout-sw600dp-v13\activity_otp_challenge_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout-sw600dp-v13\activity_single_select_challenge_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challenge_multiselect_body_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challenge_oob_body_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challenge_otp_body_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challenge_single_selectbody.xml:3
+-keep class com.cardinalcommerce.shared.cs.userinterfaces.uielements.CCAButton { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout-sw600dp-v13\activity_otp_challenge_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challenge_otp_body_view.xml:3
+-keep class com.cardinalcommerce.shared.cs.userinterfaces.uielements.CCAEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challenge_labelview_cf.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\progress_view_2.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\text_info_body_view.xml:3
+-keep class com.cardinalcommerce.shared.cs.userinterfaces.uielements.CCAImageView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout-sw600dp-v13\activity_single_select_challenge_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challenge_single_selectbody.xml:3
+-keep class com.cardinalcommerce.shared.cs.userinterfaces.uielements.CCARadioGroup { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout-sw600dp-v13\activity_multi_select_challenge_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout-sw600dp-v13\activity_otp_challenge_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout-sw600dp-v13\activity_single_select_challenge_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challege_footer.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challenge_multiselect_body_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challenge_otp_body_view.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challenge_single_selectbody.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\challenge_toolbar_cf.xml:3
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\31\jl\res\layout\text_info_body_view.xml:3
+-keep class com.cardinalcommerce.shared.cs.userinterfaces.uielements.CCATextView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\fb_native_ad_unit.xml:1
+-keep class com.facebook.ads.MediaView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\menu\more_menu.xml:1
+-keep class com.facebook.drawee.view.SimpleDraweeView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\left_ms_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\right_ms_view.xml:16
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\userchannel_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\videosliderlayout.xml:1
+-keep class com.github.library.bubbleview.BubbleLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\exo_simple_player_view.xml:1
+-keep class com.google.android.exoplayer2.ui.AspectRatioFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\exo_playback_control_view.xml:1
+-keep class com.google.android.exoplayer2.ui.DefaultTimeBar { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\exo_simple_player_view.xml:1
+-keep class com.google.android.exoplayer2.ui.PlayerControlView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\fullscreendialog_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\video_viewer_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\videosliderlayout.xml:1
+-keep class com.google.android.exoplayer2.ui.PlayerView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\exo_simple_player_view.xml:1
+-keep class com.google.android.exoplayer2.ui.SubtitleView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\15\jl\res\layout\exo_track_selection_dialog.xml:14
+-keep class com.google.android.exoplayer2.ui.TrackSelectionView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\chaboutlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\creatnewplaylist_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\localwebview_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\monetizationlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\recyclerdefaultlayout.xml:2
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\video_viewer_layout.xml:1
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\edit_mychannel_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\forgetpassword_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_admob3.xml:1
+-keep class com.google.android.gms.ads.doubleclick.PublisherAdView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\gnt_medium_template_view.xml:1
+-keep class com.google.android.gms.ads.formats.MediaView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\gnt_medium_template_view.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\gnt_nativecontentad_view.xml:1
+-keep class com.google.android.gms.ads.formats.UnifiedNativeAdView { <init>(...); }
+
+# Referenced at res/layout/cast_help_text.xml:2
+-keep class com.google.android.gms.cast.framework.internal.featurehighlight.HelpTextView { <init>(...); }
+
+# Referenced at res/layout/cast_expanded_controller_activity.xml:195
+-keep class com.google.android.gms.cast.framework.media.widget.CastSeekBar { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\162\jl\res\layout\places_autocomplete_activity.xml:1
+-keep class com.google.android.libraries.places.widget.internal.ui.AutocompleteImplFragment { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\activitiesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\articlesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\go_pro_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\library_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\localwebview_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\mychannelfragment_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\paymentcarddetailslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\pointslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\recyclerdefaultlayout.xml:2
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\search_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_deleteacountuser_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\settings_twofactorauthlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\subscriptionslayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\tmainvideolayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\ttrendinglayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\userchannel_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\verificationcodelayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\verificationlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\videosliderlayout.xml:1
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\mychannelfragment_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\userchannel_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\videosliderlayout.xml:1
+-keep class com.google.android.material.appbar.CollapsingToolbarLayout { <init>(...); }
+
+# Referenced at res/layout/test_toolbar.xml:16
+# Referenced at res/layout/test_toolbar_custom_background.xml:16
+# Referenced at res/layout/test_toolbar_elevation.xml:16
+# Referenced at res/layout/test_toolbar_surface.xml:16
+-keep class com.google.android.material.appbar.MaterialToolbar { <init>(...); }
+
+# Referenced at res/layout/material_clock_period_toggle.xml:35
+# Referenced at res/layout/material_timepicker_dialog.xml:73
+# Referenced at res/layout/mtrl_calendar_month_navigation.xml:32
+# Referenced at res/layout/mtrl_picker_header_fullscreen.xml:36
+-keep class com.google.android.material.button.MaterialButton { <init>(...); }
+
+# Referenced at res/layout/material_clock_period_toggle.xml:18
+# Referenced at res/layout-land/material_clock_period_toggle_land.xml:18
+-keep class com.google.android.material.button.MaterialButtonToggleGroup { <init>(...); }
+
+# Referenced at res/layout/material_time_chip.xml:17
+# Referenced at res/layout/test_action_chip.xml:17
+# Referenced at res/layout/test_chip_zero_corner_radius.xml:17
+# Referenced at res/layout/test_reflow_chipgroup.xml:25
+-keep class com.google.android.material.chip.Chip { <init>(...); }
+
+# Referenced at res/layout/test_reflow_chipgroup.xml:19
+-keep class com.google.android.material.chip.ChipGroup { <init>(...); }
+
+# Referenced at res/layout/mtrl_calendar_month.xml:18
+-keep class com.google.android.material.datepicker.MaterialCalendarGridView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\custom_navigationbar.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\recyclerdefaultlayout.xml:2
+-keep class com.google.android.material.floatingactionbutton.FloatingActionButton { <init>(...); }
+
+# Referenced at res/layout/design_bottom_navigation_item.xml:27
+# Referenced at res/layout/mtrl_navigation_rail_item.xml:24
+# Referenced at res/layout/test_navigation_bar_item_layout.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at res/layout/design_text_input_end_icon.xml:18
+# Referenced at res/layout/design_text_input_start_icon.xml:18
+# Referenced at res/layout/mtrl_picker_header_toggle.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at res/layout/design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at res/layout/design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at res/layout/design_layout_snackbar.xml:18
+# Referenced at res/layout/mtrl_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at res/layout/design_layout_snackbar_include.xml:18
+# Referenced at res/layout/mtrl_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\mychannelfragment_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\userchannel_layout.xml:1
+-keep class com.google.android.material.tabs.TabLayout { <init>(...); }
+
+# Referenced at res/layout/mtrl_picker_text_input_date.xml:31
+# Referenced at res/layout/mtrl_picker_text_input_date_range.xml:32
+-keep class com.google.android.material.textfield.TextInputEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\add_address_widget.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\28\jl\res\layout\bt_card_form_fields.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_enrollment_card.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\card_multiline_widget.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\country_autocomplete_textview.xml:1
+# Referenced at res/layout/material_time_input.xml:18
+# Referenced at res/layout/mtrl_picker_text_input_date.xml:26
+# Referenced at res/layout/mtrl_picker_text_input_date_range.xml:26
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(...); }
+
+# Referenced at res/layout/text_view_with_line_height_from_appearance.xml:17
+# Referenced at res/layout/text_view_with_line_height_from_layout.xml:17
+# Referenced at res/layout/text_view_with_line_height_from_style.xml:17
+# Referenced at res/layout/text_view_with_theme_line_height.xml:17
+# Referenced at res/layout/text_view_without_line_height.xml:17
+-keep class com.google.android.material.textview.MaterialTextView { <init>(...); }
+
+# Referenced at res/layout/material_chip_input_combo.xml:18
+-keep class com.google.android.material.timepicker.ChipTextInputComboView { <init>(...); }
+
+# Referenced at res/layout/material_timepicker.xml:31
+-keep class com.google.android.material.timepicker.ClockFaceView { <init>(...); }
+
+# Referenced at res/layout/material_clockface_view.xml:25
+-keep class com.google.android.material.timepicker.ClockHandView { <init>(...); }
+
+# Referenced at res/layout/material_timepicker_dialog.xml:46
+-keep class com.google.android.material.timepicker.TimePickerView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\42\jl\res\layout\rzp_loader.xml:1
+-keep class com.razorpay.CircularProgressView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\tabbed_main_layout.xml:1
+-keep class com.sothree.slidinguppanel.SlidingUpPanelLayout { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\activity_add_source.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\paymentcarddetailslayout.xml:1
+-keep class com.stripe.android.view.CardMultilineWidget { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\card_input_widget.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\card_multiline_widget.xml:1
+-keep class com.stripe.android.view.CardNumberEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\add_address_widget.xml:1
+-keep class com.stripe.android.view.CountryAutoCompleteTextView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\card_input_widget.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\card_multiline_widget.xml:1
+-keep class com.stripe.android.view.ExpiryDateEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\card_multiline_widget.xml:1
+-keep class com.stripe.android.view.IconTextInputLayout { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\masked_card_row.xml:1
+-keep class com.stripe.android.view.MaskedCardView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\activity_select_shipping_method.xml:1
+-keep class com.stripe.android.view.SelectShippingMethodWidget { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\activity_enter_shipping_info.xml:1
+-keep class com.stripe.android.view.ShippingInfoWidget { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\add_address_widget.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\card_input_widget.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\34\jl\res\layout\card_multiline_widget.xml:1
+-keep class com.stripe.android.view.StripeEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\3\jl\res\layout\crop_image_activity.xml:1
+-keep class com.theartofdev.edmodo.cropper.CropImageView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\3\jl\res\layout\crop_image_view.xml:1
+-keep class com.theartofdev.edmodo.cropper.CropOverlayView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\articlesviewlayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\commentsfragment_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\livestreaminglayout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\messagesbox_layout.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_bottom_sheet_reply.xml:1
+-keep class developer.semojis.Helper.EmojiconEditText { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\53\jl\res\layout\emojicon_item.xml:1
+-keep class developer.semojis.Helper.EmojiconTextView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\style_comment.xml:1
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\res\layout\view_live_streaming_loading_progress.xml:1
+-keep class refractored.controls.CircleImageView { <init>(...); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_drop_in_activity.xml:1
+-keepclassmembers class * { *** onBackgroundClicked(android.view.View); }
+
+# Referenced at C:\Users\Alphazer0\Downloads\APP\02\Nova pasta\PlayTube_V2.9\PlayTube\obj\Release\120\lp\29\jl\res\layout\bt_drop_in_activity.xml:1
+-keepclassmembers class * { *** onVaultEditButtonClick(android.view.View); }
+

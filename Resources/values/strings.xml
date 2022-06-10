@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!--Notes :-->
+	<!-- - If the text is marked ' Please replace with the symbol &apos; and add at the beginning and end of the sentence "
+        Example: Let's get started! >> "Let&apos;s get started!"  -->
+	<!-- - If the text is marked & Please replace with the symbol &amp; 
+        Example. Movies & Animation >> Movies &amp; Animation   -->
+
+	<!--supportsRtl-->
+	<bool name="Is_arabic">false</bool>
+	<!--===============================================================-->
+
+	<!--EXO PLAYER NOT FOR TRANCALCTE-->
+	<string name="selection_disabled">Desabilitado</string>
+	<string name="selection_default">Padrão</string>
+	<string name="unexpected_intent_action">Ação de intenção inesperada: </string>
+	<string name="enable_random_adaptation">Ativar adaptação aleatória</string>
+	<string name="error_drm_not_supported">Conteúdo protegido não compatível com níveis de API abaixo de 18</string>
+	<string name="error_drm_unsupported_scheme">Este dispositivo não suporta o esquema DRM necessário</string>
+	<string name="error_drm_unknown">Ocorreu um erro de DRM desconhecido</string>
+	<string name="error_no_decoder">Este dispositivo não fornece um decodificador para</string>
+	<string name="error_no_secure_decoder">Este dispositivo não fornece um decodificador seguro para</string>
+	<string name="error_querying_decoders">Não foi possível consultar os decodificadores do dispositivo</string>
+	<string name="error_instantiating_decoder">Não foi possível instanciar o decodificador</string>
+	<string name="error_unsupported_video">A mídia inclui faixas de vídeo, mas nenhuma pode ser reproduzida por este dispositivo</string>
+	<string name="error_unsupported_audio">A mídia inclui faixas de áudio, mas nenhuma pode ser reproduzida por este dispositivo</string>
+	<string name="storage_permission_denied">A permissão para acessar o armazenamento foi negada</string>
+	<string name="sample_list_load_error">Falha ao carregar uma ou mais listas de amostra</string>
+	<string name="ima_not_loaded">Reproduzindo amostra sem anúncios, pois a extensão IMA não foi carregada</string>
+	<!--===============================================================-->
+
+	<!--most used-->
+	<!--===============================================================-->
+	<string name="video">Video</string>
+	<string name="audio">Audio</string>
+	<string name="text">Texto</string>
+	<string name="retry">Repetir</string>
+	<string name="Terms_of_service">
+		<u>Termos de serviço</u> and
+	</string>
+	<string name="Privacy_Policy">
+		<u>Política de Privacidade</u>
+	</string>
+	<string name="Lbl_Username">Usuário</string>
+	<string name="Lbl_Email">Email</string>
+	<string name="Lbl_Password">Senha</string>
+	<string name="Lbl_Login">Login</string>
+	<string name="Lbl_Register">Registrar</string>
+	<string name="Lbl_Empty">Vazio</string>
+	<string name="Lbl_Loading">Loading</string>
+	<string name="Lbl_Save">Salvar</string>
+	<string name="Lbl_Comment">Commentários</string>
+	<string name="Lbl_Videos">Videos</string>
+	<string name="Lbl_Views">Views</string>
+	<string name="Lbl_about">Sobre</string>
+	<string name="Lbl_Error">Erro</string>
+	<string name="Lbl_Ok">Ok</string>
+	<string name="Lbl_Security">Segurança</string>
+	<string name="Lbl_Done">Concluido!</string>
+	<string name="Lbl_Deleted">Deletado</string>
+	<string name="Lbl_Submit">Enviar</string>
+	<string name="Lbl_Cancel">Cancelar</string>
+	<string name="Lbl_Yes">Sim</string>
+	<string name="Lbl_No">Não</string>
+	<string name="Lbl_Warning">Aviso</string>
+	<string name="Lbl_Changed">Alterado</string>
+	<string name="Lbl_Crop">Colheita</string>
+	<string name="Lbl_Edit">Editar</string>
+	<string name="Lbl_Report">Reportar</string>
+	<string name="Lbl_Quality">Qualidade</string>
+	<string name="Lbl_Playback_Speed">Velocidade de reprodução</string>
+	<string name="Lbl_Normal">Normal</string>
+	<string name="Lbl_Help_feedback">Ajuda Feedback</string>
+	<string name="Lbl_Make_video_offline">Faça vídeo Offline</string>
+	<string name="Lbl_Share">Compartilhar</string>
+	<string name="Lbl_Not_interested">Não interessado</string>
+	<string name="Lbl_Addto_playlist">adicionar àPlaylist</string>
+	<string name="Lbl_Addto_watchlater">Adicione para assistir depois</string>
+	<!--===============================================================-->
+	<string name="Lbl_Dont_have_any_videos">Não tem vídeos</string>
+	<string name="Lbl_Start_likedvideo">Voltar e curtir qualquer vídeo que você quiser</string>
+	<string name="Lbl_Start_Historyvideo">Volte e assista a qualquer vídeo que desejar</string>
+	<string name="Lbl_Start_subscriptions">Não há assinaturas</string>
+	<string name="Lbl_Start_watchlater">Volte e assista a qualquer vídeo que desejar e adicione-o à área de transferência</string>
+	<string name="Lbl_Start_watchoffline">Volte e baixe qualquer vídeo que você quiser</string>
+	<string name="Lbl_ConfirmPassword">Confirmar senha</string>
+	<string name="Lbl_Forget_password">Perdeu a Senha ?</string>
+	<string name="Lbl_Top_videos">Top videos</string>
+	<string name="Lbl_Latest_videos">Últimos vídeos</string>
+	<string name="Lbl_Empty_search">Resultado de pesquisa nulo encontrado</string>
+	<string name="Lbl_Start_search">Iniciar uma pesquisa com a nova palavra</string>
+	<string name="Lbl_Trendingvideos">Vídeos em alta</string>
+	<string name="Lbl_Emptyvideos">Vídeos vazios</string>
+	<string name="Lbl_Start_Trending">Não há vídeos para ver</string>
+	<string name="Lbl_Start_Category">Ops, parece que não há vídeos nesta categoria</string>
+	<string name="Lbl_All_Channal">Todos Channels</string>
+	<string name="Lbl_Empty_PlayLists">PlayLists vazias</string>
+	<string name="Lbl_No_videos_found_for_now">Nenhum vídeo encontrado por enquanto!</string>
+	<string name="Lbl_Please_write_your_email">Preencha seu email</string>
+	<string name="Lbl_Forgot_your_password">Esqueceu sua senha</string>
+	<string name="Lbl_Forgot_your_password_DontWorry">Não se preocupe, digite seu e-mail aqui e nós o recuperaremos para você.</string>
+	<string name="Lbl_Shared_videos">Vídeos compartilhados</string>
+	<string name="Lbl_Offline_Mode">Modo Offline</string>
+	<string name="Lbl_Change_Password">Mudar senha</string>
+	<string name="Lbl_Current_Password">Senha atual</string>
+	<string name="Lbl_New_Password">Nova Senha</string>
+	<string name="Lbl_Repeat_password">Repita a Senha</string>
+	<string name="Lbl_Your_password_dont_match">Sua senha não corresponde</string>
+	<string name="Lbl_Please_check_your_details">Por favor, verifique seus dados</string>
+	<string name="Lbl_Creat_New_Playlist">Criar Playlist Playlist</string>
+	<string name="Lbl_Published_on">publicado em</string>
+	<string name="Lbl_Dont_have_any_playlist">Não tem nenhuma lista de reprodução</string>
+	<string name="Lbl_Creat_new">Criar novo!</string>
+	<string name="Lbl_Loading_Videos">Loading Videos...</string>
+	<string name="Lbl_Avatar_Cover">Cobrir Avatar</string>
+	<string name="Lbl_Change_Avatar">Alterar avatar da imagem</string>
+	<string name="Lbl_Change_Cover">Alterar capa da imagem</string>
+	<!--===============================================================-->
+
+	<!--Notification-->
+	<!--===============================================================-->
+	<string name="Lbl_Empty_notifications">Suas notificações ficam aqui</string>
+	<string name="Lbl_Start_notifications">Inscreva-se nos seus canais favoritos para ser notificado sobre os vídeos mais recentes.</string>
+	<string name="Lbl_Notif_Added">adicionou um novo vídeo</string>
+	<string name="Lbl_Notif_Unsubscribed">cancelou a inscrição no seu canal</string>
+	<string name="Lbl_Notif_Subscribed">inscrito no seu canal</string>
+	<string name="Lbl_Notif_Disliked">não gostei do seu vídeo</string>
+	<string name="Lbl_Notif_Liked">gostei do seu vídeo</string>
+	<string name="Lbl_Notif_Commented">comentou no seu vídeo</string>
+
+	<!--Time-->
+	<!--===============================================================-->
+	<string name="Lbl_hours">Horas atrás</string>
+	<string name="Lbl_days">Dias atrás</string>
+	<string name="Lbl_month">Mês passado</string>
+	<string name="Lbl_minutes">Minutos atrás</string>
+	<string name="Lbl_seconds">Segundos atrás</string>
+	<string name="Lbl_year">Ano passado</string>
+
+	<string name="Lbl_justNow">Agora mesmo</string>
+	<string name="Lbl_CutHours">H</string>
+	<string name="Lbl_CutDays">D</string>
+	<string name="Lbl_CutMonth">M</string>
+	<string name="Lbl_CutMinutes">Min</string>
+	<string name="Lbl_CutSeconds">SeG</string>
+	<string name="Lbl_CutYear">A</string>
+	<string name="Lbl_about_minute">cerca de um minuto atrás</string>
+	<string name="Lbl_about_hour">cerca de uma hora atrás</string>
+	<string name="Lbl_yesterday">ontem</string>
+	<string name="Lbl_about_month">mais ou menos um mês atrás</string>
+	<string name="Lbl_about_year">cerca de um ano atrás</string>
+
+	<!--My Channal-->
+	<!--===============================================================-->
+	<string name="Lbl_Enjoy_your_favorite_videos">Curta seus vídeos favoritos</string>
+	<string name="Lbl_Start_signin">Faça login para acessar o vídeo que você gostou ou salvou</string>
+	<string name="Lbl_Terms_privacy">Termos e política de Privacidade</string>
+	<string name="Lbl_name_newplaylist">Nomear nova Playlist</string>
+	<string name="Lbl_playlist_name">Nome da Playlist</string>
+	<string name="Lbl_Description">Descrição</string>
+	<string name="Lbl_playlist_description">Descrição da lista de reprodução</string>
+	<string name="Lbl_Enter_Password">Digite sua senha aqui</string>
+	<string name="Lbl_AboutChannal">Sobre</string>
+	<string name="Lbl_FirstName">Nome</string>
+	<string name="Lbl_LastName">Sobrenome</string>
+	<string name="Lbl_facebook">Facebook</string>
+	<string name="Lbl_twitter">Twitter</string>
+	<string name="Lbl_google">Google +</string>
+	<string name="Lbl_ChangeName">Mudar Nome</string>
+	<string name="Lbl_User_Info">informação de usuário</string>
+	<string name="Lbl_Gender">Gênero</string>
+	<string name="Lbl_Social_Links">Links sociais</string>
+
+	<!--Button-->
+	<!--===============================================================-->
+	<string name="Lbl_Send">Enviar</string>
+	<string name="Lbl_Import">Importar</string>
+	<string name="Lbl_Upload">Upload</string>
+	<string name="Lbl_Comments">Commentários</string>
+	<string name="Lbl_DeleteAccount">Deletar conta</string>
+	<string name="Lbl_Subscribe">Se inscrever</string>
+	<string name="Lbl_Subscribed">Subscrito</string>
+	<string name="Lbl_Image">Image,</string>
+	<string name="Lbl_Video">Video</string>
+	<string name="Lbl_Skip">Cancelar</string>
+	<string name="Lbl_LoginGoogle">Logar com a sua conta Google</string>
+	<string name="Lbl_Verify">Verificar</string>
+	<string name="Lbl_Publish">Publicar</string>
+	<string name="Lbl_Continue">Continue</string>
+
+	<!--RadioButton-->
+	<!--===============================================================-->
+	<string name="Radio_private">Privado</string>
+	<string name="Radio_public">Público</string>
+	<string name="Radio_Male">Masculino</string>
+	<string name="Radio_Female">Feminino</string>
+
+	<!--Toast && Messages-->
+	<!--===============================================================-->
+	<string name="Lbl_CheckYourInternetConnection">Please check your internet connection</string>
+	<string name="Lbl_VerificationFailed">Verification failed</string>
+	<string name="Lbl_VerificationCorrect">Verification Success</string>
+	<string name="Lbl_PasswordSent">Sua senha foi enviada com sucesso</string>
+	<string name="Lbl_Created_successfully_playlist">Criado com sucesso, você pode voltar e adicionar vídeo à lista de reprodução.</string>
+	<string name="Lbl_You_can_not_access_your_disapproval">Você não pode acessar sua reprovação dos Termos e Condições</string>
+	<string name="Lbl_IsEmailValid">Por favor, escreva seu endereço de e-mail completo</string>
+	<string name="Lbl_EmailNotFound">O e-mail não existe</string>
+	<string name="Lbl_something_went_wrong">verifique suas credenciais algo deu errado</string>
+	<string name="Lbl_Please_enter_your_data">Por favor, insira seus dados</string>
+	<string name="Lbl_Error_Login">Login incorreto, erro de nome de usuário ou senha</string>
+	<string name="Lbl_Error_Register_password">Cadastro incorreto, erro de senha</string>
+	<string name="Lbl_The_name_can_not_be_blank">O nome não pode ficar em branco</string>
+	<string name="Lbl_Your_account_was_successfully_deleted">Sua conta foi excluída com sucesso</string>
+	<string name="Lbl_Please_confirm_your_password">Por favor, confirme sua senha</string>
+	<string name="Lbl_Closed_App">O aplicativo será fechado</string>
+	<string name="Lbl_Video_added">Vídeo adicionado</string>
+	<string name="Lbl_You_can_not_Download_video">Você não pode baixar este tipo de vídeo</string>
+	<string name="Lbl_Permission_is_denied">Desculpe: você não pode prosseguir com sua ação se não permitir</string>
+	<string name="Lbl_Subscribed_successfully">Inscrito com sucesso</string>
+	<string name="Lbl_Channel_Removed_successfully">Canal removido com sucesso</string>
+	<string name="Lbl_Video_Removed">Video removido</string>
+	<string name="Lbl_received_your_report">Obrigado, Recebemos seu relato!</string>
+	<string name="Lbl_The_search_term">O termo de pesquisa deve ter mais de 4 caracteres</string>
+	<string name="Lbl_Image_changed_successfully">Imagem alterada com sucesso</string>
+	<string name="Lbl_Uploads_Image">Sua foto será atualizada em breve</string>
+	<string name="Lbl_Video_Liked">Vídeo curtido</string>
+	<string name="Lbl_Remove_Video_Liked">Remover o vídeo para curtir</string>
+	<string name="Lbl_Video_UnLiked">Vídeo não gostou</string>
+	<string name="Lbl_Remove_Video_UnLiked">Remover o vídeo para não gostei</string>
+	<string name="Lbl_Video_Uploaded">O vídeo aparecerá em breve no seu canal.</string>
+	<string name="Lbl_Video_Success">Sucesso</string>
+
+	<!--AlertDialog-->
+	<!--===============================================================-->
+	<string name="Lbl_Enter_new_name_for_playlist">Digite um novo nome para a lista de reprodução</string>
+	<string name="Lbl_Delete_video">Delete video</string>
+	<string name="Lbl_Are_you_sure_you_went_to_logout">Tem certeza que deseja sair?</string>
+	<string name="Lbl_Are_you_sure_you_went_to_delete_account">Tem certeza de que deseja excluir a conta de</string>
+	<string name="Lbl_Please_sign_in_WatchLater">Faça login para adicionar vídeos do WatchLater</string>
+	<string name="Lbl_Please_sign_in_playlist">Faça login para adicionar aos vídeos da lista de reprodução</string>
+	<string name="Lbl_Please_sign_in_Dislike">Faça login para adicionar seu Dislike</string>
+	<string name="Lbl_Please_sign_in_Like">Faça login para adicionar seu Like</string>
+	<string name="Lbl_Please_sign_in_comment">Faça login para adicionar seu comentário</string>
+	<string name="Lbl_Select_One_Name">Selecione uma Playlist</string>
+	<string name="Lbl_Please_wait">Um Momento...</string>
+	<string name="Lbl_Checking_PlayLists_info">Verificando listas de reprodução...</string>
+	<string name="Lbl_Do_You_want_to_remove_video">Deseja remover o vídeo do cache</string>
+	<string name="Lbl_Report_This_Video">Denunciar este vídeo</string>
+	<string name="Lbl_Report_This_Video_Text">Por favor, escreva um resumo do que foi este vídeo</string>
+	<string name="Lbl_Please_sign_in_Subcribed">Faça login para se inscrever no canal</string>
+
+	<!--Fragment-->
+	<!--===============================================================-->
+	<string name="Lbl_Library">Livraria</string>
+	<string name="Lbl_Notifications">Notificações</string>
+	<string name="Lbl_Home">Home</string>
+	<string name="Lbl_Trending">Tendência</string>
+	<string name="Lbl_Search">Procurar</string>
+	<string name="Lbl_Activity">Atividades</string>
+	<string name="Lbl_More">Mais</string>
+
+	<!--Library-->
+	<!--===============================================================-->
+	<string name="Lbl_Subscriptions">Assinaturas</string>
+	<string name="Lbl_WatchLater">Assistir depois</string>
+	<string name="Lbl_RecentlyWatched">Assistidos recentemente</string>
+	<string name="Lbl_WatchOffline">Assistir Offline</string>
+	<string name="Lbl_PlayLists">PlayLists</string>
+	<string name="Lbl_Liked">Curtidas</string>
+	<string name="Lbl_LikedVideos">Vídeos curtidos</string>
+	<string name="Lbl_PlayLists_Videos">PlayLists Videos</string>
+	<string name="Lbl_RecentlyWatched_Videos">Vídeos assistidos recentemente</string>
+	<string name="Lbl_WatchLater_Videos">Assistir vídeos mais tarde</string>
+	<string name="Lbl_WatchOffline_Videos">Assistir video offline</string>
+
+	<!--SettingsPreferences-->
+	<!--===============================================================-->
+	<string name="Lbl_Settings">Configurações</string>
+	<string name="Lbl_Account_and_Profile">Conta</string>
+	<string name="Lbl_MyChannal">Meu Canal</string>
+	<string name="Lbl_edit_MyChannal">Editar Canal</string>
+	<string name="Lbl_Change_your_password">Mude sua senha</string>
+	<string name="Lbl_History_Privacy">História &amp; Privacidade</string>
+	<string name="Lbl_claer_History">Limpar histórico de visualizações</string>
+	<string name="Lbl_claer_watchedHistory">
+		Limpar vídeos assistidos enquanto estiver desconectado neste dispositivo <br/>Isso também limpará seu histórico de exibição.
+	</string>
+	<string name="Lbl_Pause_watchedHistory">Pausar histórico de exibição</string>
+	<string name="Lbl_Clear_Cache">Limpar Cache</string>
+	<string name="Lbl_General">Geral</string>
+	<string name="Lbl_Language">Idioma</string>
+	<string name="Lbl_Display_your_app_Language">Exiba o idioma do seu aplicativo</string>
+	<string name="Lbl_Support">Suporte</string>
+	<string name="Lbl_Help">Ajuda</string>
+	<string name="Lbl_Termsofuse">Termos de uso</string>
+	<string name="Lbl_About_App">Sobre nós</string>
+	<string name="Lbl_Logout">Logout</string>
+
+	<!--Delete Account-->
+	<string name="Lbl_IWantToDelete1">Sim, quero excluir</string>
+	<string name="Lbl_IWantToDelete2">permanentemente de</string>
+	<string name="Lbl_IWantToDelete3">Conta.</string>
+
+	<string name="Lbl_Download_faileds">Falha no Download.</string>
+	<string name="Lbl_Lets_get_started">"Vamos começar!"</string>
+
+	<string name="Lbl_I_agree_to_the">Estou de acordo com</string>
+	<string name="Lbl_Add_To">Adicionar</string>
+	<string name="Lbl_Category">Categoria</string>
+	<string name="Lbl_Image_file_creation_failed">Falha na criação do arquivo de imagem</string>
+	<string name="Lbl_Night_Mode">Modo noturno</string>
+
+	<string name="Lbl_Empty_Lastmessages">Não há mais mensagens</string>
+	<string name="Lbl_Start_Lastmessages">Inicie novas conversas acessando >> Contatos</string>
+	<string name="Lbl_Unknown">Desconhecido</string>
+	<string name="Lbl_NoInternetAvailable">Sem Internet disponível</string>
+	<string name="Lbl_ConnectionNotEstablished">Não foi possível estabelecer uma conexão com nossos servidores, tente novamente mais tarde.</string>
+	<string name="Lbl_YourComment">Seu comentário..</string>
+	<string name="Lbl_Channal">Chanal</string>
+
+	<!--Empty State Inflater-->
+	<string name="Lbl_NoConnection_TitleText">Sem Internet disponível</string>
+	<string name="Lbl_NoConnection_DescriptionText">Não foi possível estabelecer uma conexão com nossos servidores, tente novamente mais tarde.</string>
+	<string name="Lbl_NoConnection_Button">Tente novamente</string>
+
+	<string name="Lbl_SomThingWentWrong_TitleText">Algo deu errado</string>
+	<string name="Lbl_SomThingWentWrong_DescriptionText">Resposta do servidor</string>
+	<string name="Lbl_SomThingWentWrong_Button">Tente novamente</string>
+
+	<string name="Lbl_NoComments_TitleText">Ainda sem comentários</string>
+	<string name="Lbl_NoComments_DescriptionText">Comece a conversa deixando o primeiro comentário.</string>
+
+	<!--message-->
+	<string name="Lbl_Message">Messagem</string>
+	<string name="Lbl_Chats">Chats</string>
+	<string name="Lbl_Write_your_message">Escreva sua mensagem</string>
+	<string name="Lbl_Clear_chat">Limpar chat</string>
+	<string name="Lbl_Last_seen">Visto pela última vez</string>
+	<string name="Lbl_Text_copied">Texto copiado para a área de transferência</string>
+	<string name="Lbl_Copy">Copiar</string>
+	<string name="Lbl_Delete">Deletar</string>
+
+	<string name="Lbl_ReadMore">Ler mais</string>
+	<string name="Lbl_ReadLess">Ler menos</string>
+	<string name="Lbl_ViewMore">Ver mais</string>
+
+	<!--Article-->
+	<string name="Lbl_Article">Artigos</string>
+	<string name="Lbl_ExploreArticle">Explorar artigos</string>
+	<string name="Lbl_Empty_Article">Nenhum artigo</string>
+	<string name="Lbl_Start_Article">Não há artigos disponíveis</string>
+
+	<string name="Lbl_Null_Data_User">Usuário de dados nulos</string>
+	<string name="Lbl_If_you_forgot_your_password">Se você esqueceu sua senha, você pode redefini-la aqui.</string>
+
+
+	<!--Refresh-->
+	<string name="Lbl_PullToRefresh">Aperte para atualizar</string>
+	<string name="Lbl_RefreshMyNewsFeed">Atualizar vídeos mais recentes</string>
+	<string name="Lbl_Refreshing">Recarregar</string>
+
+	<string name="Lbl_NoMoreVideos">Não há mais vídeos a serem carregados</string>
+	<string name="Lbl_NoMoreArticle">não há mais exibição de notícias</string>
+	<string name="Lbl_Shared">Compartilhado</string>
+	<string name="Lbl_VerifyRegistration">Registro realizado com sucesso! Enviamos um e-mail para você, verifique sua caixa de entrada/spam para verificar sua conta.</string>
+
+	<!--Monetization-->
+	<string name="Lbl_Monetization">Monetização</string>
+	<string name="Lbl_Amount">Resultar</string>
+	<string name="Lbl_MyBalance">MEU SALDO</string>
+	<string name="Lbl_CantRequestMonetization">Você não pode solicitar esse valor que não seja compatível com seu saldo atual</string>
+	<string name="Lbl_RequestSentMonetization">Sua solicitação de saque foi enviada com sucesso</string>
+
+	<string name="Lbl_SelectPictures">Selecionar fotos</string>
+	<string name="Lbl_Please_enter_firstname">Erro, digite o primeiro nome</string>
+	<string name="Lbl_Please_enter_lastname">Erro, digite o sobrenome</string>
+	<string name="Lbl_Please_enter_Messages">Erro, por favor, digite as mensagens</string>
+	<string name="Lbl_Please_select_Image">Erro, selecione a imagem</string>
+	<string name="Lbl_WelcomeTo">Bem Vindo</string>
+	<string name="Lbl_Please_select_Image_passport">Selecione uma foto recente do seu passaporte ou documento de identidade.</string>
+	<string name="Lbl_SubmitRequest">Enviar pedido</string>
+	<string name="Lbl_Congratulations_verified">Parabéns, você foi verificado. Obrigado por verificar seu ID</string>
+	<string name="Lbl_Please_add_info">Adicione as seguintes informações</string>
+
+
+	<string name="Lbl_NextTo">Ao lado de</string>
+
+	<!--===============================================================-->
+	<!-- Verification Code Number-->
+	<string name="Lbl_Verification">Verificação</string>
+	<string name="Lbl_VerificationText1">Para fazer login, você precisa verificar sua identidade.</string>
+	<string name="Lbl_VerificationText2">Enviamos o código de confirmação para o seu endereço de e-mail.</string>
+
+	<string name="Lbl_CodeNotCorrect">Digite o código correto</string>
+	<string name="Lbl_AddCode">Adicionar código</string>
+
+	<string name="Lbl_AddCommentHere">Adicione um comentário aqui</string>
+	<string name="Lbl_NewFeeds">Novos Feeds</string>
+	<!--===============================================================-->
+
+
+	<string name="Lbl_AgeRestricted">Este vídeo tem restrição de idade para espectadores menores de 18 anos</string>
+	<string name="Lbl_GEORestricted">Este vídeo não está disponível em seu local.</string>
+	<string name="Lbl_purchaseVideo">Este vídeo está sendo vendido, você tem que comprar o vídeo para assisti-lo.</string>
+	<string name="Lbl_ChannelIsPaid">Este canal é pago, você deve pagar para se inscrever</string>
+
+
+	<string name="press_again_exit">Pressione novamente para sair</string>
+	<string name="Lbl_PopularChannels">Canais populares</string>
+	<string name="Lbl_NoMoreChannels">Não há mais canais</string>
+	<string name="Lbl_loadMore">Carregue mais</string>
+	<string name="Lbl_NoMorePlayList">Não há mais lista de reprodução</string>
+	<string name="Lbl_NoMoreComment">Sem mais comentários</string>
+	<string name="Lbl_Subscribers">Assinantes</string>
+	<string name="Lbl_HasNotAnyInfo">Não tem nenhuma informação</string>
+	<string name="Lbl_Paid_videos">Vídeo pago</string>
+	<string name="Lbl_Paid">Pagos</string>
+	<string name="Lbl_NoPaidVideosFound">Nenhum vídeo pago encontrado</string>
+	<string name="Lbl_NoMoreUsers">Não há mais usuários</string>
+	<string name="Lbl_NoChannelsFound">Não há mais canais</string>
+
+
+	<string name="Lbl_Filter">Filtros</string>
+	<string name="Lbl_SortBy">Ordenar por</string>
+	<string name="Lbl_TimeBy">Tempo por</string>
+	<string name="Lbl_AllTime">Tempo todo</string>
+	<string name="Lbl_Today">Hoje</string>
+	<string name="Lbl_ThisWeek">Essa semana</string>
+	<string name="Lbl_ThisMonth">Este mês</string>
+	<string name="Lbl_ThisYear">Este ano</string>
+	<string name="Lbl_Reset">Reset</string>
+	<string name="Lbl_ApplyFilter">Aplicar filtro</string>
+	<string name="Lbl_Close">Perto</string>
+	<string name="Lbl_MostActive">Mais ativo</string>
+	<string name="Lbl_Camera_Not_Available">A câmera não está disponível.</string>
+	<string name="Lbl_SubCategories">Subcategorias</string>
+	<string name="Lbl_Purchase">Comprar</string>
+	<string name="Lbl_SubscribeFor">Inscreva-se para</string>
+	<string name="Lbl_AndUnlockAllTheVideos">e desbloquear todos os vídeos</string>
+	<string name="Lbl_ErrorVerification">Sua solicitação foi enviada com sucesso e será revisada em breve</string>
+
+	<!--Block Users-->
+	<string name="Lbl_BlockedUsers">Usuários bloqueados</string>
+	<string name="Lbl_Block">Bloquear</string>
+	<string name="Lbl_Blocked_successfully">bloqueado com sucesso</string>
+	<string name="Lbl_Unblock_successfully">Desbloquear com sucesso</string>
+	<string name="Lbl_DoYouWantUnblock">Deseja desbloquear este usuário</string>
+	<string name="Lbl_NoBlockUsers">Não há usuários</string>
+	<string name="Lbl_BlockUser">Bloquear usuário</string>
+	<!--===============================================================-->
+
+	<!--Payment Card Details-->
+	<string name="Lbl_Expire">Espira</string>
+	<string name="Lbl_CVV">CVV</string>
+	<string name="Lbl_YourName">Seu Nome</string>
+	<string name="Lbl_CreditCardNumber">Número do Cartão de Crédito</string>
+	<string name="Lbl_NameOfCard">Nome no cartão</string>
+	<string name="Lbl_OrUsing">Ou usando</string>
+	<string name="Lbl_PleaseVerifyDataCard">Verifique se os dados inseridos estão corretos</string>
+	<string name="Lbl_ErrorConnectionSystemStripe">Há um erro no sistema de pagamento eletrônico, por favor, verifique o departamento de manutenção e obrigado</string>
+	<string name="Lbl_Canceled">Cancelado</string>
+	<string name="Lbl_Invalid">Invalido</string>
+
+	<string name="Lbl_PaymentSuccessfully">pagamento com sucesso</string>
+	<string name="Lbl_Processing">Em processamento</string>
+	<string name="Lbl_PaySera">Paysera</string>
+	<string name="Lbl_PayStack">Paystack</string>
+	<string name="Lbl_RazorPay">RazorPay</string>
+	<string name="Lbl_Paypal">Paypal</string>
+	<string name="Lbl_GooglePlay">Google Play</string>
+
+	<string name="Lbl_PayNow">Pague agora</string>
+	<string name="Lbl_Please_enter_name">Error, Por favor, digite o nome</string>
+	<string name="Lbl_Name">Nome</string>
+	<string name="Lbl_Phone">Phone</string>
+	<string name="Lbl_long_Note">Para confirmar o pix, você precisará enviar um recibo ou fazer uma captura de tela da sua transferência no prazo de 1 dia a partir da data de pagamento. Se uma transferência bancária for feita, mas nenhum recibo for enviado dentro desse período, seu pedido será cancelado. Verificaremos e confirmaremos seu recebimento em até 3 dias úteis a partir da data de upload.</string>
+
+	<!--===============================================================-->
+	<string name="Lbl_Please_sign_in_view_comment">Você pode ver os comentários somente depois de fazer login</string>
+
+	<string name="Lbl_EditVideo">Editar vídeo</string>
+	<string name="Lbl_VideoTitle">Título do vídeo</string>
+	<string name="Lbl_Tags">Tags</string>
+	<string name="Lbl_DescriptionOfTag">
+		Adicione tags para descrever mais sobre seu vídeo adicionando um sinal <b>"&apos;,&apos;"</b> no final de cada TAG sem espaço entre elas.
+	</string>
+	<string name="Lbl_Unlisted">Não-listado</string>
+	<string name="Lbl_Privacy">Privacidade</string>
+	<string name="Lbl_AgeRestriction">Restrição de idade</string>
+	<string name="Lbl_AgeRestrictionText0">Todas as idades podem ver este vídeo</string>
+	<string name="Lbl_AgeRestrictionText1">Apenas +18</string>
+
+	<string name="Lbl_PleaseEnterTitleVideo">Erro, escreva o título do vídeo</string>
+	<string name="Lbl_PleaseEnterDescriptionVideo">Erro, por favor, escreva a descrição do vídeo</string>
+	<string name="Lbl_PleaseEnterTags">Erro, por favor, escreva tags</string>
+	<string name="Lbl_PleaseChooseCategory">Erro, escolha a categoria</string>
+	<string name="Lbl_PleaseChooseAgeRestriction">Erro, escolha a restrição de idade</string>
+	<string name="Lbl_PleaseChoosePrivacy">Erro, escolha privacidade</string>
+	<string name="Lbl_YourVideoSuccessfullyEdited">Seu vídeo editado com sucesso</string>
+
+	<string name="Lbl_Please_sign_in_Paid">Faça login para adicionar vídeo pago</string>
+	<string name="Lbl_SkipAds">Pular anúncios</string>
+	<string name="Lbl_VisitAdvertiser">Visite o anunciante</string>
+
+	<string name="Lbl_Withdrawals">Saques</string>
+	<string name="Lbl_PayPalEmail">PayPal E-mail</string>
+
+	<string name="Lbl_upgrade_now">Atualize agora</string>
+	<string name="Lbl_Go_Pro">Torne-se Profissional</string>
+	<string name="Lbl_Title_Pro1">Descubra mais recursos com</string>
+	<string name="Lbl_Title_Pro2">Pacote profissional</string>
+
+	<string-array name="go_pro_array_1">
+		<item>Carregue vídeos ilimitados</item>
+		<item>Os anúncios em vídeo serão exibidos</item>
+		<item>Vídeos sem destaque</item>
+		<item>Nenhum selo verificado</item>
+	</string-array>
+
+	<string-array name="go_pro_array_2">
+		<item>Carregar até 1 GB</item>
+		<item>Nenhum anúncio será exibido</item>
+		<item>Vídeo em destaques</item>
+		<item>Selo verificado</item>
+		<item>Vender vídeos a qualquer preço</item>
+	</string-array>
+
+	<string name="Lbl_Light">Claro</string>
+	<string name="Lbl_Dark">Escuro</string>
+	<string name="Lbl_SetByBattery">Definido pelo Economizador de bateria</string>
+	<string name="Lbl_AddedToWatchLater">Adicionado para assistir mais tarde</string>
+	<string name="Lbl_RemovedFromWatchLater">Removido do relógio mais tarde</string>
+	<string name="Lbl_ManageSessions">Gerenciar sessões</string>
+	<string name="Lbl_Empty_Sessions">Sem sessões</string>
+	<string name="Lbl_Browser">Navegador</string>
+	<string name="Lbl_IpAddress">Endereço de IP</string>
+	<string name="Lbl_AreYouSureLogoutFromThisDevice">Tem certeza de que deseja sair deste dispositivo?</string>
+	<string name="Lbl_GetArticlesByCategories">Obter artigos por categorias</string>
+	<string name="Lbl_SelectCategories">Selecione uma categoria</string>
+	<string name="Lbl_Default">Predefinição</string>
+	<string name="Lbl_MostPopular">Mais popular</string>
+	<string name="Lbl_Date">Data</string>
+	<string name="Lbl_LastHour">Última hora</string>
+	<string name="Lbl_ReportCopyRight">Denunciar direitos autorais</string>
+	<string name="Lbl_TitleReportCopyRight">Descreva sua solicitação com cuidado e, tanto quanto possível, observe que solicitações falsas de DMCA podem levar ao encerramento da conta.</string>
+	<string name="Lbl_TextCheckBoxReportCopyRight_1">Acredito de boa fé que o uso do trabalho protegido por direitos autorais descrito acima não é autorizado pelo proprietário dos direitos autorais, seu agente ou pela lei</string>
+	<string name="Lbl_TextCheckBoxReportCopyRight_2">Confirmo que sou o proprietário dos direitos autorais ou estou autorizado a agir em nome do proprietário de um direito exclusivo que supostamente foi violado.</string>
+	<string name="Lbl_Please_sign_in_Report">Você pode adicionar relatório somente depois de fazer login</string>
+	<string name="Lbl_Donate">Donate</string>
+	<string name="Lbl_Rent">Aluguel</string>
+	<string name="Lbl_RemoveFromWatchLater">Remover do relógio mais tarde</string>
+	<string name="Lbl_VideoSuccessfullyPaid">Vídeo pago com sucesso</string>
+	<string name="Lbl_Activities">Atividades</string>
+	<string name="Lbl_Empty_Activities">Nenhuma atividade encontrada por enquanto</string>
+	<string name="Lbl_TwoFactor">Autenticação de dois fatores</string>
+	<string name="Lbl_Describe_TwoFactor">"Ative o login em duas etapas para aumentar a segurança da sua conta. Uma vez ativado, você usará sua senha e um código de segurança de 6 dígitos enviado para seu telefone ou e-mail para fazer login."</string>
+	<string name="Lbl_ConfirmationEmail_TwoFactor">Enviamos um e-mail que contém o código de confirmação para habilitar a autenticação de dois fatores.</string>
+	<string name="Lbl_ConfirmationEmailSent">Um e-mail de confirmação foi enviado.</string>
+	<string name="Lbl_ConfirmationCode">Código de confirmação</string>
+	<string name="Lbl_ConfirmationCodeSent">código de confirmação enviado</string>
+	<string name="Lbl_TwoFactorOn">dois fatores em</string>
+	<string name="Lbl_Enable">Habilitar</string>
+	<string name="Lbl_Disable">Desativar</string>
+	<string name="Lbl_favCategory">Categoria favorita</string>
+	<string name="Lbl_ChooseFavCategory">Escolha quais categorias você gostaria de ver em sua página inicial</string>
+
+	<string name="Lbl_CreditCard"></string>
+
+	<string name="Lbl_DonatedSuccessfully">Doado com sucesso</string>
+	<string name="Lbl_FreeMember">Membro grátis</string>
+	<string name="Lbl_ProMember">Membro Pro</string>
+	<string name="Lbl_StayFree">Mantenha-se livre</string>
+	<string name="Lbl_TheFilesWillBeDeleted">Os arquivos serão excluídos. Tem certeza?</string>
+	<string name="Lbl_FilesAreNowDeleted">Os arquivos agora são excluídos</string>
+
+	<string name="Lbl_Display">Display</string>
+	<string name="Lbl_Theme">Tema</string>
+
+	<string name="Lbl_PictureInPicture">Imagem em imagem</string>
+	<string name="Lbl_PictureInPictureSubTitle">Tocar no botão Home enquanto assiste a reprodução contínua em um player em miniatura ao toque de outros aplicativos</string>
+	<string name="Lbl_Auto">Auto</string>
+	<string name="Lbl_AutoPlay">Reprodução automática</string>
+	<string name="Lbl_NoReplies">Sem Respostas</string>
+	<string name="Lbl_RentVideo">Este vídeo está sendo vendido, você tem que alugar o vídeo para assisti-lo</string>
+	<string name="Lbl_PageNotFound">Página não encontrada</string>
+	<string name="Lbl_Fav_videos">Vídeos favoritos</string>
+
+	<string name="Lbl_DeleteComment">Excluir comentário</string>
+	<string name="Lbl_AreYouSureDeleteComment">Tem certeza de que deseja excluir este comentário?</string>
+	<string name="Lbl_CommentSuccessfullyDeleted">O comentário foi excluído com sucesso</string>
+	<string name="Lbl_CopeText">Copiar texto</string>
+	<string name="Lbl_Write_comment">Escreva um comentário</string>
+	<string name="Lbl_Update">Update</string>
+
+	<string name="Lbl_AccountNumber">Número da conta / IBAN</string>
+	<string name="Lbl_AccountName">Nome da conta</string>
+	<string name="Lbl_RoutingCode">Código de roteamento</string>
+	<string name="Lbl_Country">País</string>
+	<string name="Lbl_short_Note1">Para confirmar a transferência, você precisará enviar um recibo ou fazer uma captura de tela da sua transferência no prazo de 1 dia a partir da data de pagamento. Se uma transferência bancária for feita, mas nenhum recibo for enviado dentro desse período, seu pedido será cancelado. Verificaremos e confirmaremos seu recebimento em até 3 dias úteis a partir da data de upload.</string>
+
+	<string name="Lbl_BankTransfer">Pix</string>
+	<string name="Lbl_ErrorPleaseSelectImage">Erro, selecione a imagem</string>
+	<string name="Lbl_YourWasReceiptSuccessfullyUploaded">Seu recibo foi carregado com sucesso</string>
+	<string name="Lbl_Note">Nota:</string>
+
+	<!--Login WoWonder-->
+	<string name="Lbl_LoginWith">Login com</string>
+	<string name="Lbl_ErrorLogin_3">Usuário ou senha incorretos</string>
+	<string name="Lbl_ErrorLogin_4">Nome de usuário não encontrado</string>
+	<string name="Lbl_ErrorLogin_5">senha está incorreta</string>
+	<string name="Lbl_ErrorLogin_6">Você não pode realizar o processo de registro, tente novamente mais tarde ou entre em contato conosco</string>
+	<string name="Lbl_ContinueAs">Continuar como</string>
+
+	<!--Error Login-->
+	<string name="Lbl_Error_1">O nome de usuário não pode ficar vazio</string>
+	<string name="Lbl_Error_2">A senha não pode estar vazia</string>
+	<string name="Lbl_Error_3">Não foi possível salvar a sessão</string>
+	<string name="Lbl_Error_4">Usuário não existe</string>
+	<string name="Lbl_Error_5">Senha incorreta</string>
+
+	<string name="Lbl_SignIn">Entrar</string>
+	<string name="Lbl_See_More">Mostre mais</string>
+	<string name="Lbl_See_Less">Mostre menos</string>
+	<string name="icon_desc">Ícone de anúncio</string>
+	<string name="image_desc">Imagem do anúncio</string>
+	<string name="sponsored">Patrocinados</string>
+
+	<!--Live Video-->
+	<!--=============================================================-->
+	<string name="Lbl_CreateLiveVideo">Criar vídeo ao vivo</string>
+	<string name="Lbl_AddLiveVideoContext">Adicionar contexto de vídeo ao vivo</string>
+	<string name="Lbl_PleaseEnterLiveStreamName">Insira o nome da transmissão ao vivo</string>
+	<string name="Lbl_Live">Vídeos ao vivo</string>
+	<string name="Lbl_Go_Live">Ao Vivo</string>
+
+	<string name="Lbl_IsLiveNow">está ao vivo agora</string>
+	<string name="Lbl_GetReady">Prepare-se</string>
+	<string name="Lbl_JoiningStream">Entrando no stream</string>
+	<string name="Lbl_LiveStreamHasEnded">Sua transmissão ao vivo terminou</string>
+	<string name="Lbl_LiveStreamShareSuccess">Obrigado, esperamos vê-lo novamente</string>
+	<string name="Lbl_Finish">Terminar</string>
+	<string name="Lbl_StartedBroadcastingLive">começou a transmitir ao vivo</string>
+	<string name="Lbl_StreamHasEnded">a transmissão terminou.</string>
+	<string name="Lbl_LiveStreamer_alert_title">Pronto para parar a transmissão ao vivo?</string>
+	<string name="Lbl_LiveStreamer_alert_message">"Toque em &apos;Sim&apos; para encerrar sua transmissão ou &apos;Não&apos; continuar"</string>
+	<string name="Lbl_LiveViewer_alert_title">Ready to stop watching?</string>
+	<string name="Lbl_LiveViewer_alert_message">"Tap &apos;Yes&apos; to exit live stream or &apos;No&apos; to keep watching"</string>
+	<string name="Lbl_YourLiveStreamHasEnded">Sua transmissão ao vivo terminou</string>
+	<string name="Lbl_LiveStreamer_End_title">Obrigado, esperamos vê-lo novamente</string>
+	<string name="Lbl_LiveViewer_End_title">Comece sua própria transmissão ao vivo agora</string>
+
+	<!--=============================================================-->
+	<string name="Lbl_HeadTextGoPro">Descubra mais recursos com o pacote playtube Pro</string>
+	<string name="Lbl_Star">ESTRELA</string>
+
+	<string name="Lbl_ThereIsNewUpdate">Há uma nova atualização</string>
+	<string name="Lbl_DiscoverNewVersion">Descubra a nova versão</string>
+	<string name="Lbl_Current">Atual</string>
+
+	<string name="Lbl_Rate">Avaliar</string>
+	<string name="Lbl_RateOurApp">Avalie nosso aplicativo</string>
+	<string name="Lbl_RateOurAppContent">Se você ama nosso aplicativo, reserve um momento para rarizá-lo.</string>
+
+	<string name="Lbl_Age">Idade</string>
+	<string name="Lbl_Mode">Modo</string>
+	<string name="Lbl_SearchForVideos">Pesquisar vídeos</string>
+	<string name="Lbl_PayWith">Pagar com</string>
+	<string name="Lbl_CashFree">Sem dinheiro</string>
+	<string name="Lbl_Donated">Doado</string>
+	<string name="Lbl_Upgraded">Atualizado</string>
+
+	<!--Stock Video-->
+	<!--=============================================================-->
+	<string name="Lbl_StockVideo">Vídeo de estoque</string>
+	<string name="Lbl_SearchTerm">Termo de pesquisa</string>
+	<string name="Lbl_LicenseType">Tipo de licença</string>
+	<string name="Lbl_PriceMin">Preço mínimo</string>
+	<string name="Lbl_PriceMax">Preço máximo</string>
+
+	<string name="Lbl_rights_managed_license">Licença de Direitos Gerenciados (RM)</string>
+	<string name="Lbl_editorial_use_license">Licença de uso editorial</string>
+	<string name="Lbl_royalty_free_license">Licença isenta de royalties (RF)</string>
+	<string name="Lbl_royalty_free_extended_license">Licença estendida isenta de royalties</string>
+	<string name="Lbl_creative_commons_license">Licença Creative Commons</string>
+	<string name="Lbl_public_domain">Domínio público</string>
+
+
+	<string name="Lbl_Movies">Filmes</string>
+	<string name="Lbl_Empty_Movies">Nenhum filme encontrado</string>
+	<string name="Lbl_Rating">Avaliação</string>
+	<string name="Lbl_Release">Liberar</string>
+
+	<string name="Lbl_CreateArticle">Criar artigo</string>
+	<string name="Lbl_SignUp">Inscrever-se</string>
+	<string name="Lbl_Create_Account">Criar Conta</string>
+
+	<string name="Lbl_Please_select_Rating">Erro, selecione Classificação</string>
+	<string name="Lbl_ErrorForward">Não é possível avançar 10 segundos</string>
+	<string name="Lbl_ErrorBackward">Não é possível pular para trás 10 segundos</string>
+
+	<!--V2.6 String translate-->
+	<!--=============================================================-->
+	<string name="Lbl_OrContinueWith">Ou continue com</string>
+	<string name="Lbl_TextRegister">preencha seus dados ou continue com as redes sociais</string>
+	<string name="Lbl_TextLogin">Insira seus dados abaixo para continuar</string>
+	<string name="Lbl_PhoneNumberIsWrong">número de telefone está errado</string>
+
+	<!-- V2.8 String translate -->
+	<!--===============================================================-->
+	<string name="Lbl_ReportLive_Title">Selecione um problema</string>
+	<string name="Lbl_ReportLive_desc">"Se alguém estiver em perigo imediato, procure ajuda antes de denunciar. Não espere."</string>
+	<string name="Lbl_Nudity">Nudez</string>
+	<string name="Lbl_Violence">Violência</string>
+	<string name="Lbl_Harassment">Assédio</string>
+	<string name="Lbl_Suicide">Suicídio ou autolesão</string>
+	<string name="Lbl_FalseInformation">Informação falsa</string>
+	<string name="Lbl_Span">Span</string>
+	<string name="Lbl_UnauthorizedSales">Vendas não autorizadas</string>
+	<string name="Lbl_HateSpeech">Discurso de ódio</string>
+	<string name="Lbl_Terrorism">Terrorismo</string>
+	<string name="Lbl_IntellectualProperty">Propriedade intelectual</string>
+	<string name="Lbl_SomethingElse">Algo mais</string>
+	<string name="Lbl_Other">Outro</string>
+	<string name="Lbl_Duration">Duração</string>
+	<string name="Lbl_Accept">Aceitar</string>
+
+	<string name="Lbl_InviteFriends">Convide amigos</string>
+	<string name="Lbl_InviteSMSText_1">Oi vamos nos encontrar</string>
+	<string name="Lbl_InviteSMSText_2">para o seu telefone inteligente</string>
+
+	<!-- V2.9 String translate -->
+	<!--===============================================================-->
+	<string name="Lbl_Points">Pontos</string>
+	<string name="Lbl_Earn">Ganhar</string>
+	<string name="Lbl_PointsComment">pontos comentando qualquer vídeo</string>
+	<string name="Lbl_PointsLike">pontos por curtir qualquer vídeo</string>
+	<string name="Lbl_PointsDislike">pontos por não gostar de nenhum vídeo</string>
+	<string name="Lbl_PointsUpload">pontos enviando qualquer vídeo</string>
+	<string name="Lbl_PointsWatching">pontos assistindo a qualquer vídeo</string>
+
+</resources>

@@ -1,0 +1,1 @@
+<resources><dimen name="landscape_padding">16dp</dimen><integer name="landscape_initial_ratio">1</integer><integer name="landscape_secondary_ratio">3</integer></resources>

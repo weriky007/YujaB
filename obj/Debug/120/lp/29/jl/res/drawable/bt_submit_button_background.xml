@@ -1,0 +1,1 @@
+<selector tools:ignore="UnusedAttribute" android:exitFadeDuration="@android:integer/config_shortAnimTime" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android"><item android:drawable="@color/bt_blue_pressed" android:state_pressed="true" /><item android:drawable="@color/bt_blue" /></selector>
